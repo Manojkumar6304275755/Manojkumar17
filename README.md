@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Manoj kumar from india<br><br>- 🔭 "Final-year undergraduate student in B.tech [Branch},specializiing in coding skills <br>- 📚 I'm currently learning full stack development<br>- ⚡ In my free time I focus on enhancing my skills through projects and practice.</p>
+<p align="left">I'm Manoj kumar from india<br><br>- 🔭 "Final-year undergraduate student in B.tech [CSE WITH AI and DS],specializiing in coding skills <br>- 📚 I'm currently learning full stack development<br>- ⚡ In my free time I focus on enhancing my skills through projects and practice.</p>
 
 ###
 
